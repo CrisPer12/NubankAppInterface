@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/CrisPer12/NubankAppInterface/blob/master/wallpaper.jpg" alt="UiClone" width="280"/>
+    <img src="https://github.com/CrisPer12/NubankAppInterface/blob/master/wallpaper.jpg" alt="UiClone" width="600"/>
 </p>
 
 > :rocket: Clone da Interface do Nubank, seguindo tutorial da @Rocketseat
